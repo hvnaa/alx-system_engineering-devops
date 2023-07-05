@@ -1,3 +1,5 @@
 # alx-system_engineering-devops
-1 - Display the contents list of your current directory.
+0 - Write a script that prints the absolute path name of the current working directory.
+1- Display the contents list of your current directory.
+
 
