@@ -1,0 +1,3 @@
+
+h
+grep -v "bin" /etc/passwd~
